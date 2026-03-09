@@ -11,7 +11,7 @@ This project demonstrates a simple CI/CD pipeline using GitHub Actions and GitHu
 A static website is automatically deployed whenever code is pushed to the main branch.
 
 ## GitHub Pages Link
-(Will be added after deployment)
+(https://engbaraaharb03.github.io/cloud-beginner-cicd-pages-Baraa-Harb/)
 
 ## How to Run Locally
 1. Download or clone the repository
